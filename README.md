@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy, and user experience.
+AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy , and user experience.
 
 ## Project Structure
 
