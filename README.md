@@ -13,6 +13,18 @@ https://github.com/user-attachments/assets/7e7b3863-465c-4106-9a7f-d8c3a43fef9a
 
 
 
+
+![last commit](https://img.shields.io/badge/last%20commit-April-blue)
+![HTML](https://img.shields.io/badge/html-86.2%25-blue)
+![languages](https://img.shields.io/badge/languages-3-blue)
+
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)![JSON](https://img.shields.io/badge/JSON-black?logo=json&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![TOML](https://img.shields.io/badge/TOML-8D6748?logo=toml&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+
 ## Overview
 
 AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy , and user experience.
