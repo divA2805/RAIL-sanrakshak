@@ -1,24 +1,86 @@
 <div align="center">
-  <h1>RAIL-संरक्षक</h1>
+  <h1>🚆RAIL-संरक्षक</h1>
 </div>
 
 <div align="center">
   <h3>Transforming Complaint Management with AI Precision</h3>
 </div>
 
-![last commit](https://img.shields.io/badge/last%20commit-April-blue)         ![HTML](https://img.shields.io/badge/html-86.2%25-blue)           ![languages](https://img.shields.io/badge/languages-3-blue)
 
+---
 
+## 📊 Project Stats
 
+![last commit](https://img.shields.io/badge/last%20commit-April-blue)
+![HTML](https://img.shields.io/badge/html-86.2%25-blue)
+![languages](https://img.shields.io/badge/languages-3-blue)
 
+---
 
+## ⚙️ Built with the Tools and Technologies
 
+### 🔧 Backend & Frameworks
 
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)![JSON](https://img.shields.io/badge/JSON-black?logo=json&logoColor=white)![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-8D6748?logo=toml&logoColor=white)
+
+---
+
+### 🧠 AI/ML Libraries
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-414141?logo=sympy&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00AEEF?logo=numba&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E66EB2?logo=pydantic&logoColor=white)
+
+---
+
+### 📦 Data & UI Representation
+
+![JSON](https://img.shields.io/badge/JSON-black?logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-yellow?logo=python&logoColor=black)
+![tqdm](https://img.shields.io/badge/tqdm-yellow?logo=tqdm&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+---
+
+### 🟨 Web Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black)
+
+---
+
+## 🧠 About the Project
+
+**RAIL-SANRAKSHAK** is a next-generation complaint management system designed for the Indian Railways. It leverages artificial intelligence to streamline complaint classification, response generation, and resolution tracking—ensuring a faster and more transparent experience for passengers and authorities.
+
+---
+
+## 🛤️ Key Features
+
+- AI-powered complaint categorization
+- Real-time dashboards using Streamlit
+- RESTful API support via Flask/FastAPI
+- Multi-model ML backend using TensorFlow, Keras, Scikit-learn
+- Intelligent suggestions for resolution using NLP
+- Frontend integration with JavaScript for UI-based feedback
+
+---
+
+
+
+
+
 
 
 
@@ -31,9 +93,13 @@ https://github.com/user-attachments/assets/7e7b3863-465c-4106-9a7f-d8c3a43fef9a
 
 AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy , and user experience.
 
+---
+
 ## Project Structure
 
 This project integrates a **Backend** using Flask and Express servers with a **Frontend** HTML file that includes internal CSS for styling and JavaScript for functionality. The system allows users to upload complaint-related images, videos, and audio files for classification and provides real-time feedback.
+
+---
 
 ## Backend
 
@@ -60,6 +126,8 @@ The Express server manages file uploads from the frontend and interacts with the
 - **POST /classify**  
   Manages image uploads and sends the file path to the Flask API for classification.
 
+---
+
 ## Frontend
 
 The frontend is an HTML file with **internal CSS and JavaScript**, making it self-contained.
@@ -83,6 +151,8 @@ The frontend is an HTML file with **internal CSS and JavaScript**, making it sel
 
 - **Animations:**  
   Animations (such as the title animation) enhance the user experience and engagement.
+
+---
 
 ## Getting Started
 
@@ -118,3 +188,5 @@ Place the Model file in the folder path given below
     ```
         /BACKEND/flask-api
     ```
+
+---
