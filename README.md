@@ -89,9 +89,7 @@
 
 https://github.com/user-attachments/assets/7e7b3863-465c-4106-9a7f-d8c3a43fef9a
 
-## Overview
 
-AI-powered enhancement of Rail Madad for automated complaint categorization, prioritization, data extraction, and smart routing using visual content, improving resolution speed, accuracy , and user experience.
 
 ---
 
